@@ -1,1 +1,4 @@
-this is new file of git
+B
+git new
+C
+this is new file of gi
